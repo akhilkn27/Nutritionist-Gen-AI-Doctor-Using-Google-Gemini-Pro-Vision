@@ -1,6 +1,6 @@
 # Nutritionist Gen AI Doctor Using Google Gemini Pro Vision
 
-Many end-users and stakeholders prefer to gain insights from a database using natural language, especially when direct access cannot be granted. 
+We often don't know the calorie content of our meals. To address this, we've developed a system that can determine the number of calories in a meal by simply uploading an image of it.
 
 But how can this be achieved?
 
