@@ -6,26 +6,18 @@ But how can this be achieved?
 
 This can be accomplished with the help of Google Gemini Pro LLM.
 
-Guided by <a href='https://www.linkedin.com/in/naikkrish/'>Krish Naik</a> Sir, I had worked on building a Text-to-SQL LLM application that queries SQL databases using Gemini Pro.
+Guided by <a href='https://www.linkedin.com/in/naikkrish/'>Krish Naik</a> Sir, I worked on developing a Nutritionist Gen AI application that calculates the calorie content of an uploaded image using Gemini Pro.
 
 ![image](https://github.com/user-attachments/assets/0a64f1fb-797a-4018-b56f-e13dd9b1d430)
 
 
 <h3><b>Objective:</b></h3>
 
-The main goal of this project is to convert natural language text into SQL queries using the Gemini Pro LLM application. 
-This allows users to input their queries in natural language, which are then converted to SQL queries and executed on the database.
-
-The project has been implemented with SQLite but is adaptable to other databases such as MySQL, MSSQL, etc. <br>
-
+The main goal of this project is to utilize the Gemini Pro LLM application to convert images into responses. Users can upload images, which are then analyzed and converted to text, providing information on the calorie content of each food item in the image.
 
 <h2><b>Implementation Steps:</b></h2>
 <ol>
-  <li><b>Database Setup:</b></li>
-    <ul> 
-      <li>Use SQLite to create and populate the database with sample records using Python.</li>
-    </ul><br>
-
+  
    <li><b>LLM Integration:</b></li>
 
 <ul> 
