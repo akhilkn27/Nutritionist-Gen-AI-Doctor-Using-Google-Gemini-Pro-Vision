@@ -21,8 +21,8 @@ The main goal of this project is to utilize the Gemini Pro LLM application to co
    <li><b>LLM Integration:</b></li>
 
 <ul> 
-      <li>Utilize Google Gemini Pro LLM to build an application that converts natural language queries into SQL queries.</li>
-      <li>The generated SQL queries are then executed on the SQL database.</li>
+      <li>Utilize Google Gemini Pro LLM to develop an application that converts images to text.</li>
+      <li>The generated response will be displayed using a Streamlit app.</li>
 </ul> 
 </ol>
 
@@ -32,8 +32,7 @@ The main goal of this project is to utilize the Gemini Pro LLM application to co
 <ol>
   <li><b>requirements.txt</b> - Lists all the libraries that need to be installed.</li>
   <li><b>.env</b> - Contains the Google Gemini API key.</li>
-  <li><b>sql.py</b> - Script for creating the database, creating tables, and inserting values.</li>
-  <li><b>sqlapp.py</b> - Script for creating the Streamlit app. This is where the entire LLM application is developed.</li>
+  <li><b>health.py</b> - Script for creating the Streamlit app. This is where the entire LLM application is developed.</li>
 </ol>
 
 ![image](https://github.com/user-attachments/assets/655da246-cc58-4650-bed4-7247235df88b)
